@@ -14,16 +14,16 @@
     "@nuxtjs/fontaine": "latest",
     "@nuxtjs/google-fonts": "latest",
     "nuxt": "latest",
-    "@nuxthq/studio": "latest"
+    "@nuxthq/studio": "latest",
     "nuxt-icon": "latest",
     "prettier": "latest",
     "prettier-plugin-tailwindcss": "latest",
-    "yarn-upgrade-all": "latest",
+    "yarn-upgrade-all": "latest"
   },
   "dependencies": {
     "@iconify-json/lucide": "latest",
     "@nuxt/image": "latest",
     "@nuxt/ui": "latest",
-    "vue-use-fixed-header": "latest",
+    "vue-use-fixed-header": "latest"
   }
 }
